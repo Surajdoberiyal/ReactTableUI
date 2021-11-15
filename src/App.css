@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+.edit-icon{
+  font-size: 20px;
+}
+.delete-icon{
+  font-size: 20px;
+  margin-left: 18px;
+  color: red !important;
+}
+.ant-table-thead > tr > th {
+  font-weight: 700 !important;
+}
+.ant-input{
+  width: 30% !important;
+  margin-bottom: 1rem !important;
+}
